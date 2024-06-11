@@ -1,0 +1,15 @@
+{
+    "name": "sd_fomin_lab_5",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "word-extractor": "^1.0.4"
+    }
+}
